@@ -1,4 +1,9 @@
-The last exercise in this chapter continues with the exercise from the last chapter, the calculator. In this exercise, expand the existing code by implementing the following new features: (A) Calculator does not automatically quit when the result is given, allowing user to do new calculations. The user has to select "6" in the menu to exit the program. (B) The calculator shows the selected numbers in the main menu by printing "Current numbers:" and the user-given input. By selecting "5" in the calculator menu, the user can change the given numbers. When implemented correctly, the program prints out following:
+The last exercise in this chapter continues with the exercise from the last chapter, the calculator. 
+In this exercise, expand the existing code by implementing the following new features: 
+(A) Calculator does not automatically quit when the result is given, allowing user to do new calculations. 
+The user has to select "6" in the menu to exit the program. 
+(B) The calculator shows the selected numbers in the main menu by printing "Current numbers:" and the user-given input. 
+By selecting "5" in the calculator menu, the user can change the given numbers. 
 print("Calculator")
 keepgoing = True
 while True:
